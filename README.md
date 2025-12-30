@@ -1,5 +1,9 @@
-## Olá, me chamo Italo!
-- 📝 Estudante de Engenharia da Computação
+Olá, me chamo Italo Soares
+
+🎓 Estudante de Engenharia da Computação  
+📊 Estudando Análise de Dados e Ciência de Dados  
+🐍 Python | SQL | Pandas | Power BI  
+📍 Serra - ES## Olá, me chamo Italo!
 
 <div>
   <a href="https://github.com/Soaritalo">
