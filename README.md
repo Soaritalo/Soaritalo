@@ -13,22 +13,19 @@
 
 ---
 
- Sobre mim
+## Sobre mim
 
-````` python
+```python
 italo = {
-    "nome"       :  "Italo Soares",
-    "localização":  "Serra - ES, Brasil 🇧🇷",
-    "formação"   :  "Engenharia da Computação",
-    "empresa"    :  "Unilog — Estágio em Eng. de Dados",
-    "foco"       : ["Engenharia de Dados", "Análise de Dados"],
-    "interesses" : ["Visualização de Dados", "Python", "SQL", "BI"],
-    "status"     :  "Aprendendo a automatizar processos",
+    "nome": "Italo Soares",
+    "localização": "Serra - ES, Brasil 🇧🇷",
+    "formação": "Engenharia da Computação",
+    "empresa": "Unilog — Estágio em Eng. de Dados",
+    "foco": ["Engenharia de Dados", "Análise de Dados"],
+    "interesses": ["Visualização de Dados", "Python", "SQL", "BI"],
+    "status": "Aprendendo a automatizar processos",
 }
-`````
-
----
-
+```
 ## Ferramentas
 
 <div align="center">
