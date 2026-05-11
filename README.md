@@ -15,7 +15,7 @@
 
  Sobre mim
 
-```python
+````` python
 italo = {
     "nome"       :  "Italo Soares",
     "localização":  "Serra - ES, Brasil 🇧🇷",
@@ -25,11 +25,11 @@ italo = {
     "interesses" : ["Visualização de Dados", "Python", "SQL", "BI"],
     "status"     :  "Aprendendo a automatizar processos",
 }
-```
+`````
 
 ---
 
-## 🛠️ Tech Stack
+## Ferramentas
 
 <div align="center">
 
