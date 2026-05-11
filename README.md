@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Italo%20Soares&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Computer%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;An%C3%A1lise+%26%C3%+de+Dados+%F0%9F%93%8A;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI+%E2%9A%A1;Estagiando+na+Unilog+%F0%9F%9A%80;Serra+-+ES+%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;An%C3%A1lise+%+de+Dados+%F0%9F%93%8A;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI+%E2%9A%A1;Estagiando+na+Unilog+%F0%9F%9A%80;Serra+-+ES+%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br/>
 
