@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-```python
+python
 from dataclasses import dataclass
 
 @dataclass
