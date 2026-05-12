@@ -11,36 +11,40 @@
 </div>
 ## Sobre mim
 
+<div align="center">
+
+<table>
+<tr>
+<td>
+
 ```python
-class ItaloSoares:
+italo = {
+    "nome": "Italo Soares",
+    "localizacao": "Serra - ES, Brasil",
+    "curso": "Engenharia da Computação",
+    "cargo": "Estagiário em Engenharia de Dados | Unilog",
 
-    def __init__(self):
-        self.nome = "Italo Soares"
-        self.localizacao = "Serra - ES, Brasil"
-        self.formacao = "Engenharia da Computação"
+    "areas": [
+        "Engenharia de Dados",
+        "Análise de Dados",
+        "Business Intelligence"
+    ],
 
-        self.cargo = (
-            "Estagiário em Engenharia de Dados | Unilog"
-        )
+    "stack": {
+        "linguagens": ["Python", "SQL"],
+        "dados": ["Pandas", "Power BI"],
+        "database": ["PostgreSQL", "MySQL"]
+    },
 
-        self.foco = [
-            "Engenharia de Dados",
-            "Análise de Dados",
-            "Automação de Processos"
-        ]
-
-        self.stack = {
-            "Linguagens": ["Python", "SQL"],
-            "Dados": ["Pandas", "Power BI"],
-            "Banco de Dados": ["PostgreSQL", "MySQL"]
-        }
-
-        self.status = (
-            "Transformando dados em soluções inteligentes"
-        )
-
-me = ItaloSoares()
+    "status": "Automatizando processos e criando soluções"
+}
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 ## Ferramentas
 
 <div align="center">
