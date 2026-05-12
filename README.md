@@ -9,6 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Soaritalo?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=SEGUIDORES)](https://github.com/Soaritalo?tab=followers)
 
 </div>
+---
 ## Sobre mim
 
 <div align="center">
@@ -45,6 +46,7 @@ italo = {
 </table>
 
 </div>
+---
 ## Ferramentas
 
 <div align="center">
