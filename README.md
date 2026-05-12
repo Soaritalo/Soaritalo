@@ -13,16 +13,29 @@
 ## Sobre mim
 
 ```python
-italo = {
-    "nome": "Italo Soares",
-    "localização": "Serra - ES, Brasil 🇧🇷",
-    "formação": "Engenharia da Computação",
-    "empresa": "Unilog — Estágio em Eng. de Dados",
-    "foco": ["Engenharia de Dados", "Análise de Dados"],
-    "interesses": ["Visualização de Dados", "Python", "SQL", "BI"],
-    "status": "Aprendendo a automatizar processos",
-}
-```
+from dataclasses import dataclass
+
+@dataclass
+class Italo:
+    nome: str = "Italo Soares"
+    localizacao: str = "Serra - ES, Brasil"
+    curso: str = "Engenharia da Computação"
+    cargo: str = "Estagiário em Engenharia de Dados | Unilog"
+
+    foco = [
+        "Data Engineering",
+        "Data Analysis",
+        "Business Intelligence"
+    ]
+
+    stack = [
+        "Python",
+        "SQL",
+        "Pandas",
+        "Power BI"
+    ]
+
+    objetivo = "Transformar dados em soluções inteligentes"
 ## Ferramentas
 
 <div align="center">
