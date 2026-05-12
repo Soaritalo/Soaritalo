@@ -9,33 +9,38 @@
 [![GitHub followers](https://img.shields.io/github/followers/Soaritalo?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=SEGUIDORES)](https://github.com/Soaritalo?tab=followers)
 
 </div>
-
 ## Sobre mim
 
-python
-from dataclasses import dataclass
+```python
+class ItaloSoares:
 
-@dataclass
-class Italo:
-    nome: str = "Italo Soares"
-    localizacao: str = "Serra - ES, Brasil"
-    curso: str = "Engenharia da Computação"
-    cargo: str = "Estagiário em Engenharia de Dados | Unilog"
+    def __init__(self):
+        self.nome = "Italo Soares"
+        self.localizacao = "Serra - ES, Brasil"
+        self.formacao = "Engenharia da Computação"
 
-    foco = [
-        "Data Engineering",
-        "Data Analysis",
-        "Business Intelligence"
-    ]
+        self.cargo = (
+            "Estagiário em Engenharia de Dados | Unilog"
+        )
 
-    stack = [
-        "Python",
-        "SQL",
-        "Pandas",
-        "Power BI"
-    ]
+        self.foco = [
+            "Engenharia de Dados",
+            "Análise de Dados",
+            "Automação de Processos"
+        ]
 
-    objetivo = "Transformar dados em soluções inteligentes"
+        self.stack = {
+            "Linguagens": ["Python", "SQL"],
+            "Dados": ["Pandas", "Power BI"],
+            "Banco de Dados": ["PostgreSQL", "MySQL"]
+        }
+
+        self.status = (
+            "Transformando dados em soluções inteligentes"
+        )
+
+me = ItaloSoares()
+```
 ## Ferramentas
 
 <div align="center">
