@@ -103,8 +103,6 @@ italo = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soaritalo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed"/>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soaritalo&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&currStreakLabel=a78bfa"/>
